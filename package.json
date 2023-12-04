@@ -1,0 +1,31 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My first express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/en-wai/myapp.git"
+  },
+  "keywords": [
+    "\"My",
+    "first",
+    "app\"",
+    "app",
+    "express",
+    "\"express",
+    "app\""
+  ],
+  "author": "ny_asare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/en-wai/myapp/issues"
+  },
+  "homepage": "https://github.com/en-wai/myapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
